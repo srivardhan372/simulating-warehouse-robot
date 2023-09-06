@@ -1,2 +1,21 @@
 mkdir -p ~/.gazebo/models/mobile_warehouse_robot
 gedit ~/.gazebo/models/mobile_warehouse_robot/model.config
+
+## Save the changes in the file
+
+
+<?xml version="1.0"?>
+<model>
+  <name>Mobile warehouse robot</name>
+  <version>1.0</version>
+  <sdf version='1.4'>model.sdf</sdf>
+
+  <author>
+   <name>Srivardhan</name>
+   <email>srivardhan372@gmail.com</email>
+  </author>
+
+  <description>
+     warehouse mobile robot
+  </description>
+</model>

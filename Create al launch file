@@ -1,0 +1,4 @@
+mkdir ~/dev_ws/src/warehouse_robot_spawner_pkg/launch/
+cd ~/dev_ws/src/warehouse_robot_spawner_pkg/launch/
+#Create a file named gazebo_world.launch.py
+gedit gazebo_world.launch.py
